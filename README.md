@@ -15,7 +15,7 @@ npm install
 
 ## Example
 
-This project is been used by [Currency Converter Frontend](https://github.com/italonabuco/currency-converter-frontend) to performe conversions.
+This project has been used by [Currency Converter Frontend](https://github.com/italonabuco/currency-converter-frontend) to performe conversions.
 
 Please visit its webpage and follow its instructions to test this REST API.
 
